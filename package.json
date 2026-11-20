@@ -1,5 +1,5 @@
 {
-  "name": "sheeridverify",
+  "name": "edu-verify-workbench",
   "version": "1.0.0",
   "description": "Extensible verification workflows with fetch and Camoufox adapters",
   "private": true,
@@ -16,11 +16,11 @@
   "author": "JenkinWoo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JenkinWoo/sheeridVerify.git"
+    "url": "git+https://github.com/stanlll-cloud/edu-verify-workbench.git"
   },
-  "homepage": "https://github.com/JenkinWoo/sheeridVerify#readme",
+  "homepage": "https://github.com/stanlll-cloud/edu-verify-workbench#readme",
   "bugs": {
-    "url": "https://github.com/JenkinWoo/sheeridVerify/issues"
+    "url": "https://github.com/stanlll-cloud/edu-verify-workbench/issues"
   },
   "license": "ISC",
   "type": "module",

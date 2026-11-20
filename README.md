@@ -1,8 +1,8 @@
-# sheeridVerify · 教学与研究验证流程工作台
+# edu-verify-workbench · 验证流程工作台
 
-[![Tests](https://github.com/JenkinWoo/sheeridVerify/actions/workflows/ci.yml/badge.svg)](https://github.com/JenkinWoo/sheeridVerify/actions/workflows/ci.yml) [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D22.15-43853d)](https://nodejs.org/) [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
+[![Tests](https://github.com/stanlll-cloud/edu-verify-workbench/actions/workflows/ci.yml/badge.svg)](https://github.com/stanlll-cloud/edu-verify-workbench/actions/workflows/ci.yml) [![Node.js](https://img.shields.io/badge/Node.js-%3E%3D22.15-43853d)](https://nodejs.org/) [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 
-**[sheeridVerify](https://github.com/JenkinWoo/sheeridVerify)** 是一个基于 Node.js 的验证流程学习项目，提供本地 Web 工作台、任务队列、浏览器表单交互及 HTTP 状态查询，供学校教学、学术研究和获得授权的流程测试使用。
+**[edu-verify-workbench](https://github.com/stanlll-cloud/edu-verify-workbench)** 是一个基于 Node.js 的验证流程学习项目，提供本地 Web 工作台、任务队列、浏览器表单交互及 HTTP 状态查询，供学校教学、学术研究和获得授权的流程测试使用。
 
 > **用途说明：** 本项目仅以教学与研究为目的提供。使用真实平台前应取得必要授权，遵守适用法律和平台条款；不得伪造身份、学籍或材料，不得冒用信息、骗取权益或绕过资格审核。本项目与 SheerID 及任何学校均无官方隶属或认可关系，也不保证验证成功。详情见 [用途说明与免责声明](DISCLAIMER.md)，代码许可见 [ISC 协议](LICENSE)。
 
@@ -27,8 +27,8 @@
 需要 **Node.js >= 22.15** 与 npm。从 GitHub 获取源码：
 
 ```bash
-git clone https://github.com/JenkinWoo/sheeridVerify.git
-cd sheeridVerify
+git clone https://github.com/stanlll-cloud/edu-verify-workbench.git
+cd edu-verify-workbench
 ```
 
 使用下载的 ZIP 时，解压后进入其中包含 `package.json` 的目录。在项目根目录安装依赖与浏览器：
